@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kian!
+- 👀 I’m interested in programming, basketball, game development and social media management!
+- 🌱 I’m currently learning full-stack web development and game development.
+- 💞️ I’m looking to collaborate on game projects!
+- 📫 You can reach me by my Discord server (https://discord.gg/kCATVawg) or my email (kian@ubdm.info)!
